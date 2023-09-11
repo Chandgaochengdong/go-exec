@@ -1,0 +1,11 @@
+[rdb.default]
+# DSN格式: $user:$password@tcp($serverIp:serverPort)/$dbInstance?$args...
+dsn = "root:12345678@tcp(127.0.0.1:3306)/school?charset=utf8mb4&parseTime=True&loc=Local&allowNativePasswords=true"
+debug = false
+db-type = "mysql"
+max-lifetime = 7200
+max-open-conns = 150
+max-idle-conns = 50
+table-prefix = ""
+enable-sl-log = true
+enable-metric-collect = true

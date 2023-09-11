@@ -1,0 +1,12 @@
+gopkg.inshopline.com/commons/api v1.0.0-rc.1.0.20230505035914-1d59d590cec0/go.mod h1:hbSWHsy3tBZ2Iw8xlAaoZ+rxZwNQwH/ZLApXYkwpC/E=
+gopkg.inshopline.com/commons/bizerror v1.0.0-rc.1.0.20230518145756-b6b73bfa8ee4/go.mod h1:m/yUje6jcJx4RqY19fBmtJxTNPTXggHpKXnR+zY8zuc=
+gopkg.inshopline.com/commons/config v1.0.0-rc.2/go.mod h1:WgiSAKVY9j49ktRd/Iy5fg/Zl+52Vw+jlLunLI6fDfg=
+gopkg.inshopline.com/commons/env v1.0.0-rc.1/go.mod h1:V6dYrCfb26SdOjYdXLawZ4nL1PVoOS0VpbrukCDpIhk=
+gopkg.inshopline.com/commons/log v1.0.0-rc.1.0.20230525040158-d522931eb74b/go.mod h1:aHL7jvxh6xylKlTb0R+avFavlHS0WiX7Kyk5gFfdfLA=
+gopkg.inshopline.com/commons/log/zap v1.0.0-rc.1.0.20230525040158-d522931eb74b/go.mod h1:6ywar1AuTuacWlUo0kPXhRPXq0HYnja3QxA5XPzYk14=
+gopkg.inshopline.com/commons/metricx v1.0.0-rc.1/go.mod h1:1YrKTWbcS8WCUWYRJ8XjfAe8kReC/qfRnhBZ29xHg2w=
+gopkg.inshopline.com/commons/mongox v0.0.0-20230412015128-442648b3f880/go.mod h1:FuJqztZbU/X1tdrHgUeq6EV9YupwZhAdldRhITgGtPU=
+gopkg.inshopline.com/commons/pulsarx v1.0.0-rc.7/go.mod h1:KVDQY9aAa2AKhuq/3I6HPN3+OY4gO8CHzXwofLCdUaY=
+gopkg.inshopline.com/commons/rpcx v1.0.0-rc.1.0.20230505092938-a416b0add532/go.mod h1:WBgvU4c/1SOOawX4hnqLS/mKQijXhoPFUefBEaD641E=
+gopkg.inshopline.com/commons/utils v1.0.0-rc.1.0.20230530105453-f77e5816e44a/go.mod h1:+uid3SSspIYl4Ph1o6qGIoptZwlhCIocmI0UpKmRtD0=
+gopkg.inshopline.com/commons/webx v0.0.0-20230601041615-d98b9df56610/go.mod h1:H85I3grAIgeqLKtKvnLV1EFU0zdA/E7BXphqmTqFZOE=
